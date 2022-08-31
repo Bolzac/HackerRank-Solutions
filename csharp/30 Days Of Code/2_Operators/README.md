@@ -32,4 +32,4 @@ Logical Operators
 | !        | not  |
 | ||       | or   |
 
-<a href="https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true"> HackerRank Task </a>
+<a target="_blank" href="https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true"> HackerRank Task </a>
