@@ -14,7 +14,7 @@
 Comparison Operators
 
 | Operator | Description                                     |
-| -------- | ----------------------------------------------- |
+| :----: | ----------------------------------------------- |
 | >        | left value is greater than right value          |
 | <        | left value is lesser than right value           |
 | ==       | values are equal                                |
@@ -25,7 +25,7 @@ Comparison Operators
 Logical Operators
 
 | Operator | Name |
-| -------- | ---- |
+| :----: | ---- |
 | &&       | and  |
 | !        | not  |
 | ||       | or   |
