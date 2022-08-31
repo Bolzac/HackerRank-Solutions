@@ -1,5 +1,7 @@
 ## C# Operators
 
+Arithmetic Operators and Assignment
+
 | Operator | Name           | Description                            |
 | :----: | -------------- | -------------------------------------- |
 | +        | Addition       | Adds together two values               |
