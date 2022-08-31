@@ -1,7 +1,7 @@
 ## C# Operators
 
 | Operator | Name           | Description                            |
-| -------- | -------------- | -------------------------------------- |
+| :----: | -------------- | -------------------------------------- |
 | +        | Addition       | Adds together two values               |
 | -        | Subtraction    | Subtracts one value from another       |
 | \*       | Multiplication | Multiplies two values                  |
