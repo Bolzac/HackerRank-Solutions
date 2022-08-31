@@ -25,7 +25,7 @@ Comparison Operators
 Logical Operators
 
 | Operator | Name |
-| -------- | ---- | --- | --- |
+| -------- | ---- |
 | &&       | and  |
 | !        | not  |
-|          |      |     | or  |
+| ||       | or   |
